@@ -1,1 +1,4 @@
-hola soy ensuciar_documento2 en acer
+Documento 2 línea 1
+Documento 2 línea 2
+Documento 2 línea 3
+Documento 2 línea 4
